@@ -6,3 +6,4 @@ replays/
 .idea/
 .venv/
 venv/
+wandb/
